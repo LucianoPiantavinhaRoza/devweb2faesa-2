@@ -1,6 +1,6 @@
 // IMPORTAÇÕES //
 
-const express = require('express')
+const express = require('express');
 const pacientes = express.Router()
 const cors = require('cors')
 const pacientesController = require('../controllers/pacienteController')

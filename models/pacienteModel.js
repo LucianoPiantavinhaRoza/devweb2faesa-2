@@ -1,6 +1,6 @@
 // IMPORTAÇÕES //
 
-const Sequelize = require('sequelize')
+const Sequelize = require('sequelize');
 
 // DEFININDO TABELA PACIENTES NO BANCO DE DADOS //
 

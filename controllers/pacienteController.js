@@ -1,6 +1,6 @@
 // IMPORTAÇÕES //
 
-const db = require('../database/db')
+const db = require('../database/db');
 const Pacientes = db.pacientes
 const Op = db.Sequelize.Op
 

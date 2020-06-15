@@ -1,6 +1,6 @@
 // IMPORTAÇÕES //
 
-const express = require('express');
+const express = require('express')
 const main = express.Router();
 const cors = require('cors');
 
